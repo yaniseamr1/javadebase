@@ -4,5 +4,7 @@ class Customer {
 constructor (_firstName:string,_lastName: string){
 
 }
+
  
 }
+console.log("gello world")
